@@ -19,7 +19,7 @@ const Banner = () => {
                 <p>{banner.description}</p>
                 <button className="btn btn-primary mr-4">Discover More</button>
                 <button className="btn btn-primary btn-outline">
-                  Latest Project
+                 Our Latest Project
                 </button>
               </div>
             </div>
